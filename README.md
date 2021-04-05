@@ -1,8 +1,8 @@
 # Nanophysics2
 
 ## Requirements
-OpenMP
-armadillo
+* OpenMP
+* armadillo
 
 ## Build
 Either use Makefile, or manually:
