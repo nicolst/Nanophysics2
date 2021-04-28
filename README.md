@@ -1,5 +1,6 @@
 # Nanophysics2
 Calculates the (in)coherent conductance of a train of scatterers and free propagation areas, for N channels (set in file). Homework in TFY4340 Nanophysics at NTNU.
+
 ![bitmap](https://user-images.githubusercontent.com/35232838/116367326-87b5ad00-a807-11eb-93c8-4f7511b63b7f.png)
 
 ## Requirements
